@@ -1,4 +1,4 @@
-Live link : https://github.com/avgreddy/AI-Quiz
+Live link : https://aiquizgenerator.streamlit.app/
 
 
 # AI Quiz Generator
