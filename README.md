@@ -1,4 +1,4 @@
-Live link : https://aiquiz-kw6kox8mbpchcuclsg4i6p.streamlit.app/
+Live link : [https://aiquiz-kw6kox8mbpchcuclsg4i6p.streamlit.app/]
 
 
 # AI Quiz Generator
